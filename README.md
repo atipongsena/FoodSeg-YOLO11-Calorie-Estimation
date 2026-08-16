@@ -7,7 +7,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 > **AI-based Real-Time Food Calorie Estimation on Mobile & Edge Devices using YOLO11-seg**  
-> *Developed as a Senior Project (CS461) by **Atipong Sena** (ID: 1650708579)*
 
 ---
 
