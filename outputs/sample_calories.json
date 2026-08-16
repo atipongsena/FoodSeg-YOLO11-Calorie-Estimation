@@ -1,0 +1,65 @@
+[
+  {
+    "source": "D:\\cs461\\Final_project_461\\samples\\sample_meal.jpg",
+    "total_calories": 685.57,
+    "total_weight_grams": 740.27,
+    "items": [
+      {
+        "class_id": 95,
+        "class_name": "French beans",
+        "pixel_area": 32182.0,
+        "area_cm2": 78.8,
+        "weight_grams": 70.92,
+        "calories": 24.82
+      },
+      {
+        "class_id": 65,
+        "class_name": "rice",
+        "pixel_area": 49053.0,
+        "area_cm2": 120.12,
+        "weight_grams": 126.12,
+        "calories": 239.63
+      },
+      {
+        "class_id": 19,
+        "class_name": "dried cranberries",
+        "pixel_area": 16192.0,
+        "area_cm2": 39.65,
+        "weight_grams": 47.58,
+        "calories": 28.55
+      },
+      {
+        "class_id": 19,
+        "class_name": "dried cranberries",
+        "pixel_area": 3117.0,
+        "area_cm2": 7.63,
+        "weight_grams": 9.16,
+        "calories": 5.5
+      },
+      {
+        "class_id": 83,
+        "class_name": "carrot",
+        "pixel_area": 158588.0,
+        "area_cm2": 388.34,
+        "weight_grams": 349.5,
+        "calories": 122.33
+      },
+      {
+        "class_id": 55,
+        "class_name": "shrimp",
+        "pixel_area": 21272.0,
+        "area_cm2": 52.09,
+        "weight_grams": 70.32,
+        "calories": 91.42
+      },
+      {
+        "class_id": 47,
+        "class_name": "chicken duck",
+        "pixel_area": 21352.0,
+        "area_cm2": 52.29,
+        "weight_grams": 66.66,
+        "calories": 173.32
+      }
+    ]
+  }
+]

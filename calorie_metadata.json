@@ -1,0 +1,421 @@
+{
+  "assumed_thickness_cm": 1.5,
+  "default": {
+    "calories_per_100g": 180,
+    "density_g_per_cm3": 0.75
+  },
+  "classes": {
+    "candy": {
+      "calories_per_100g": 360,
+      "density_g_per_cm3": 0.6
+    },
+    "egg tart": {
+      "calories_per_100g": 360,
+      "density_g_per_cm3": 0.6
+    },
+    "french fries": {
+      "calories_per_100g": 190,
+      "density_g_per_cm3": 0.7
+    },
+    "chocolate": {
+      "calories_per_100g": 360,
+      "density_g_per_cm3": 0.6
+    },
+    "biscuit": {
+      "calories_per_100g": 360,
+      "density_g_per_cm3": 0.6
+    },
+    "popcorn": {
+      "calories_per_100g": 360,
+      "density_g_per_cm3": 0.6
+    },
+    "pudding": {
+      "calories_per_100g": 360,
+      "density_g_per_cm3": 0.6
+    },
+    "ice cream": {
+      "calories_per_100g": 360,
+      "density_g_per_cm3": 0.6
+    },
+    "cheese butter": {
+      "calories_per_100g": 320,
+      "density_g_per_cm3": 0.95
+    },
+    "cake": {
+      "calories_per_100g": 360,
+      "density_g_per_cm3": 0.6
+    },
+    "wine": {
+      "calories_per_100g": 65,
+      "density_g_per_cm3": 1.0
+    },
+    "milkshake": {
+      "calories_per_100g": 65,
+      "density_g_per_cm3": 1.0
+    },
+    "coffee": {
+      "calories_per_100g": 65,
+      "density_g_per_cm3": 1.0
+    },
+    "juice": {
+      "calories_per_100g": 65,
+      "density_g_per_cm3": 1.0
+    },
+    "milk": {
+      "calories_per_100g": 65,
+      "density_g_per_cm3": 1.0
+    },
+    "tea": {
+      "calories_per_100g": 65,
+      "density_g_per_cm3": 1.0
+    },
+    "almond": {
+      "calories_per_100g": 590,
+      "density_g_per_cm3": 0.65
+    },
+    "red beans": {
+      "calories_per_100g": 140,
+      "density_g_per_cm3": 0.9
+    },
+    "cashew": {
+      "calories_per_100g": 590,
+      "density_g_per_cm3": 0.65
+    },
+    "dried cranberries": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "soy": {
+      "calories_per_100g": 140,
+      "density_g_per_cm3": 0.9
+    },
+    "walnut": {
+      "calories_per_100g": 590,
+      "density_g_per_cm3": 0.65
+    },
+    "peanut": {
+      "calories_per_100g": 590,
+      "density_g_per_cm3": 0.65
+    },
+    "egg": {
+      "calories_per_100g": 260,
+      "density_g_per_cm3": 0.85
+    },
+    "apple": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "date": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "apricot": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "avocado": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "banana": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "strawberry": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "cherry": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "blueberry": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "raspberry": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "mango": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "olives": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "peach": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "lemon": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "pear": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "fig": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "pineapple": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "grape": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "kiwi": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "melon": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "orange": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "watermelon": {
+      "calories_per_100g": 60,
+      "density_g_per_cm3": 0.8
+    },
+    "steak": {
+      "calories_per_100g": 260,
+      "density_g_per_cm3": 0.85
+    },
+    "pork": {
+      "calories_per_100g": 260,
+      "density_g_per_cm3": 0.85
+    },
+    "chicken duck": {
+      "calories_per_100g": 260,
+      "density_g_per_cm3": 0.85
+    },
+    "sausage": {
+      "calories_per_100g": 260,
+      "density_g_per_cm3": 0.85
+    },
+    "fried meat": {
+      "calories_per_100g": 260,
+      "density_g_per_cm3": 0.85
+    },
+    "lamb": {
+      "calories_per_100g": 260,
+      "density_g_per_cm3": 0.85
+    },
+    "sauce": {
+      "calories_per_100g": 220,
+      "density_g_per_cm3": 0.95
+    },
+    "crab": {
+      "calories_per_100g": 130,
+      "density_g_per_cm3": 0.9
+    },
+    "fish": {
+      "calories_per_100g": 130,
+      "density_g_per_cm3": 0.9
+    },
+    "shellfish": {
+      "calories_per_100g": 130,
+      "density_g_per_cm3": 0.9
+    },
+    "shrimp": {
+      "calories_per_100g": 130,
+      "density_g_per_cm3": 0.9
+    },
+    "soup": {
+      "calories_per_100g": 50,
+      "density_g_per_cm3": 1.05
+    },
+    "bread": {
+      "calories_per_100g": 190,
+      "density_g_per_cm3": 0.7
+    },
+    "corn": {
+      "calories_per_100g": 190,
+      "density_g_per_cm3": 0.7
+    },
+    "hamburg": {
+      "calories_per_100g": 190,
+      "density_g_per_cm3": 0.7
+    },
+    "pizza": {
+      "calories_per_100g": 190,
+      "density_g_per_cm3": 0.7
+    },
+    "hanamaki baozi": {
+      "calories_per_100g": 190,
+      "density_g_per_cm3": 0.7
+    },
+    "wonton dumplings": {
+      "calories_per_100g": 190,
+      "density_g_per_cm3": 0.7
+    },
+    "pasta": {
+      "calories_per_100g": 190,
+      "density_g_per_cm3": 0.7
+    },
+    "noodles": {
+      "calories_per_100g": 190,
+      "density_g_per_cm3": 0.7
+    },
+    "rice": {
+      "calories_per_100g": 190,
+      "density_g_per_cm3": 0.7
+    },
+    "pie": {
+      "calories_per_100g": 360,
+      "density_g_per_cm3": 0.6
+    },
+    "tofu": {
+      "calories_per_100g": 140,
+      "density_g_per_cm3": 0.9
+    },
+    "eggplant": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "potato": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "garlic": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "cauliflower": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "tomato": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "kelp": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "seaweed": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "spring onion": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "rape": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "ginger": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "okra": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "lettuce": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "pumpkin": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "cucumber": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "white radish": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "carrot": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "asparagus": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "bamboo shoots": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "broccoli": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "celery stick": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "cilantro mint": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "snow peas": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "cabbage": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "bean sprouts": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "onion": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "pepper": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "green beans": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "French beans": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "king oyster mushroom": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "shiitake": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "enoki mushroom": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "oyster mushroom": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "white button mushroom": {
+      "calories_per_100g": 35,
+      "density_g_per_cm3": 0.6
+    },
+    "salad": {
+      "calories_per_100g": 90,
+      "density_g_per_cm3": 0.4
+    },
+    "other ingredients": {
+      "calories_per_100g": 180,
+      "density_g_per_cm3": 0.75
+    }
+  }
+}
